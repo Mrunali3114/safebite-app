@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/janpaul80/safebite-app/main/safebite-app-banner.jpg" alt="SafeBite Banner" width="100%" />
+
 # 🍽 SafeBite – Food Allergy Translator for Travelers
 
 A mobile-first app that detects food allergens and translates emergency warnings in real-time — built for safety and peace of mind.
